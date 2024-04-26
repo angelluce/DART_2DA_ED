@@ -1,3 +1,3 @@
-main(){
-    print('Hola mundo\nMi nombre es Angel Lucero')
+void main(){
+    print('Hola mundo\nMi nombre es Angel Lucero');
 }
